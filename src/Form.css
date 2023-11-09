@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(https://wallpapercave.com/wp/wp9444227.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    width: auto;
+  }
+  .valid{
+    
+    height: 20px;
+  }
+  .invalid{
+      height: 20px;
+  
+  }
+  .invalid-email, .invalid-name, .invalid-number{
+    color: rgb(28, 0, 139);
+  }
+  
+  .form-group{
+    margin-top: 25px;
+    
+  
+  }
+  .App{
+    font-size: 25px;
+    margin-left: 380px;
+    text-align: center;
+  }
+  .email{
+    border-radius:10px;
+    width:30px;
+  
+  }
+  .input{
+    font-size: 50px;
+  }
